@@ -33,6 +33,7 @@ h1{
 /* LAYOUT */
 .container{
     width: 70%;
+    padding-bottom: 30px;
     margin: auto;
     margin-top: 50px;
     background-color: white;
@@ -98,6 +99,56 @@ h2{
     color:white;
     background-color: rgb(74, 191, 230);
     border: 1px solid rgb(74, 191, 230);
+    border-radius: 10px;
+    font-size: 10px;
+}
+
+.goals{
+    display: inline-block;
+    padding: 3px;
+    color:white;
+    background-color: rgb(232 53 232);
+    border: 1px solid rgb(232 53 232);
+    border-radius: 10px;
+    font-size: 10px;
+}
+
+.recruiting{
+    display: inline-block;
+    padding: 3px;
+    color:white;
+    background-color: green;
+    border: 1px solid green;
+    border-radius: 10px;
+    font-size: 10px;
+}
+
+.mobile{
+    display: inline-block;
+    padding: 3px;
+    color:white;
+    background-color: orange;
+    border: 1px solid orange;
+    border-radius: 10px;
+    font-size: 10px;
+}
+
+.website{
+    display: inline-block;
+    padding: 3px;
+    color:white;
+    background-color: violet;
+    border: 1px solid violet;
+    border-radius: 10px;
+    font-size: 10px;
+}
+
+.sales{
+    display: inline-block;
+    padding: 3px;
+    color:white;
+    background-color: lightgreen;
+    border: 1px solid lightgreen;
     border-radius: 10px;
     font-size: 10px;
 }
